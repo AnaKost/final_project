@@ -2,7 +2,9 @@ var namespace = "http://www.w3.org/2000/svg"
 
 // Write your code here!
 function Home(){
-  document.querySelector("body").setAttribute
+  document.querySelector("body").setAttribute("style","background:blue;")
+  document.querySelector("body").setAttribute("style","background:blue;")
+  
 }
 makeImage("http://rogerbaxter.com/JapaneseBeetle/Beetle_Page_3_files/Beetle_Colorized.gif",75,30,60,60)
 // DO NOT EDIT CODE BELOW THIS LINE!
